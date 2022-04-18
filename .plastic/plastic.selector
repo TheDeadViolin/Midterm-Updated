@@ -1,0 +1,4 @@
+repository "Midterm@ysemre@cloud"
+  path "/"
+    br "/main"
+    co "/main"
